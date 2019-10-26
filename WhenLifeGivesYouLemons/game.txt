@@ -8,6 +8,9 @@ Resources
     *lemon
         name:Lemons
 
+Layout
+    use default
+
 Buttons
     *lemonButton
         name:Squeeze the Lemons
