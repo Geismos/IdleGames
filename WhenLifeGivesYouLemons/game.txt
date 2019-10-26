@@ -11,4 +11,4 @@ Resources
 Buttons
     *lemonButton
         name:Squeeze the Lemons
-        icon:stuff/lemon.png
+        icon:https://www.planetorganic.com/images/products/large/1842.jpg
