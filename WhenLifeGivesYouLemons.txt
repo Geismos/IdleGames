@@ -1,0 +1,9 @@
+Let's make a game!
+    name:When Life Gives You Lemons
+    by:Geismos
+    created:26/10/2019
+    version:1
+ 
+Resources
+    *pie
+        name:Pie
