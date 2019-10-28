@@ -13,7 +13,7 @@ Layout
 
 Buttons
     *lemonButton
-        name:Squeeze the Lemons
+        name:heeee the Lemons
         icon:https://www.planetorganic.com/images/products/large/1842.jpg
 
     *bunnyButton
