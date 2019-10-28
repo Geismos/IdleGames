@@ -13,14 +13,17 @@ Layout
 
 Buttons
     *lemonButton
-        name:heeee the Lemons
+        name:Get the Lemons
+        desc:Get the Lemons by clicking this button.
+        on click:yield 1 lemon
         icon:https://www.planetorganic.com/images/products/large/1842.jpg
+        class:bigButton hasFlares
 
     *bunnyButton
         name:Make a bunny
         desc:Click this little bunny to get more bunnies!
         on click:anim icon wobble
-        on click:yield 1 bunny
+        on click:yield 1 lemon
         icon:stuff/bunny.png
         no text
         class:bigButton hasFlares
