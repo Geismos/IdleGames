@@ -7,24 +7,19 @@ Let's make a game!
 Resources
     *lemon
         name:Lemons
+        show earned
 
 Layout
     use default
 
 Buttons
-    *lemonButton
-        name:Get the Lemons
-        desc:Get the Lemons by clicking this button.
-        on click:yield 1 lemon
-        icon:https://www.planetorganic.com/images/products/large/1842.jpg
-        class:bigButton hasFlares
 
     *bunnyButton
         name:Make a bunny
         desc:Click this little bunny to get more bunnies!
         on click:anim icon wobble
         on click:yield 1 lemon
-        icon:stuff/bunny.png
+        icon:img/lemon.png
         no text
         class:bigButton hasFlares
         icon class:shadowed
